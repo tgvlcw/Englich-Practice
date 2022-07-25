@@ -17,3 +17,6 @@ addressing issues = solving issues
 compared to = as opposed to 
 excel in = be proficient in
 squander = waste
+
+In terms of A versus B, I prefer to A because ...
+agricultural society = agrarian society
