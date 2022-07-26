@@ -148,6 +148,13 @@ It is reported that approximately 8 billion people live on earth today, but more
 As more revenues are invested in the space industry, we can already launch rockets and spacecraft to other planets and even land humans on the moon. As a result, without the support of NASA during SpaceX's start-up stage, I doubt that SpaceX would still exist today, and be able to execute its grand plan to launch more than 1000 manned Starships onto Mars next 50 years.
 
 
+AI Modified:
+According to estimates, there are currently 8 billion people on the planet, yet more than half of them are afflicted by hunger, diseases, insufficient shelter, etc. Thus, the government should allocate more funding and subsidies to address issues of poverty and fundamental needs rather than spending a significant amount on exploring space and exoplanets.
+
+As more money is invested in the space business, we have already launched rockets and spacecraft to other planets and landed people on the moon. Therefore, I doubt that SpaceX would still be around today and be able to carry out its ambitious plan to launch more than 1000 manned Starships towards Mars over the next 50 years without NASA's assistance during SpaceX's start-up phase.
+
+Need to study:
+It is reported that = Is it said that = According to estimates, 
 
 
 
