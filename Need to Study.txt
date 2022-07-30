@@ -47,6 +47,9 @@ enjoy the gorgeous scenes = take in the beautiful scenery
 cause = result in
 scenery = landscape
 decision = judgement
+borrow money from sb = ask sb for financial assistance
+financial crisis = financial difficulty
+
 
 
 
