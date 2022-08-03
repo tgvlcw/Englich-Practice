@@ -49,7 +49,7 @@ scenery = landscape
 decision = judgement
 borrow money from sb = ask sb for financial assistance
 financial crisis = financial difficulty
-
+I do not cling to the notion that ...
 
 
 
