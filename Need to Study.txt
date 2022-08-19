@@ -41,7 +41,7 @@ the best solution = the most appropriate solution = the most suitable solution
 sometimes = occasionally
 
 outdoor activity = outdoor pursuits
-to a large extent = to a significant part
+to a large extent = to a significant part = in large measure
 meaningless = pointless
 enjoy the gorgeous scenes = take in the beautiful scenery
 cause = result in
