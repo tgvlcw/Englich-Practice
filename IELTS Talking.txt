@@ -93,7 +93,7 @@ Although the business trip only lasted half a month, it was the most meaningful 
 
 
 
-2nd day: 3 times
+2nd day: 4 times
 
 Describe a long walk you ever had. When this happened? Where you walked? Who you were with? How did you feel about this long walk?
 
@@ -104,7 +104,7 @@ Visiting our ancestor's graves is one of the traditional Chinese cultures, which
 These days, visiting our ancestors' graves is not only a serious matter but a big family activity to maintain a good relationship between relatives. I am looking forward to the huge family activity at the next Spring Festival.
 
 
-3th day: 3 times
+3th day: 4 times
 
 Describe a rule you dislike and would like to change in the future. What it is? What it is for? Why you don't like it? Why you would like to change it?
 
@@ -187,17 +187,17 @@ She is 4 years older than me and lives in another city. As a result, we are unab
 Although all of these come from my imagination, we might never work together because we live in different cities and work in different fields. But nothing is impossible. Perhaps we really have a chance to work together and do some surprising things someday. Who knows.
 
 
-11th day: 4 times
+11th day: 5 times
 Describe an interesting neighbor. Who he/she is? How you knew him/her? What you do together? Why he/she is interesting?
 
 Several neighbors live nearby my house. If I had to choose one of them that is the most interesting. I think that would be an old couple living next to my house.
 
-This couple has lived next to my house for over 10 years since I was a kid. We often greet each other if we meet outside of our house. Due to we aren't the same generation and have different work and rest habits, we don't work or play together. Even so, we're all fond of shopping online and usually help each other receive packages if they or my family aren't home. Two things about my neighbor that always make me laugh and I feel interesting. The older woman frequently used a local dialect to yell at the man, who didn't do something better. The older man didn't give any response to the woman except to simply lower his head. The other is that the woman feeds a very pretty and cute cat, but she never allows the cat to run out of the house. If the cat does so, the voice of the woman calling the cat can be heard at a long distance. As a result, the cat is often timid and scary whenever I see it. 
+This couple has lived next to my house for over 10 years since I was a kid. We often greet each other if we meet outside of our house. Due to we aren't the same generation and have different work and rest habits, we don't work or play together. Even so, we're all fond of shopping online and usually help each other receive packages if they or my family aren't home. Two things about my neighbor that always make me laugh and I feel interesting. The older woman frequently used a local dialect to yell at the man, who didn't do something better. The older man didn't give any response to the woman except to simply lower his head. The other is that the woman feeds a very pretty and cute cat, but she never allows the cat to run out of the house. If the cat does so, the voice of the woman calling the cat can be heard at a long distance. As a result, the cat is very timid and scary whenever I see it. 
 
 Although the couple and my family don't do anything together, we would do the same things at some festivals, such as pasting red couplets at the Chinese Spring Festival, visiting our ancestor's graves at the Qingming festival, and so on. To maintain good relationships, we sometimes help each other in our daily lives.  
 
 
-12th day: 4 times
+12th day: 5 times
 
 Describe a time when someone asked for you opinion. Who asked for your opinion. Why he/she wanted to know your opinion. What opinion you gave. How you felt when she/he asked for your opinion.
 
@@ -208,7 +208,7 @@ I received a call 3 years ago from my aunt, who asked me how to choose a major i
 Although my aunt listened to my suggestions, she didn't make any decisions for her son. Maybe she already had a few ideas in her mind that she needed to discuss with her son. But from her perspective, I think she would advise her son to select a law-related major because being a civil servant would be more promising there days.
 
 
-13th day & 4th day:4 times
+13th day & 4th day: 5 times
 
 Describe a popular/well-known person in your country. Who this person is. What he/she has done. Why he/she is popular. How you feel about this person.
 
@@ -220,17 +220,21 @@ To support his career, I decided to watch every movie he is in. I'm looking forw
 
 
 
-14th day:
+14th day: 1 times
 
 Describe something you do to keep fit and healthy. What it is. When you do it. Who you do it with. Why it is important to keep fit and healthy. Why it can help you keep fit and healthy. 
 
 Nowadays, more and more people pay more attention to keeping fit and healthy, such as exercising in a gym, improving their diets, and so on. If I had to describe one thing I'm doing to stay in shape and be healthy. I think it would be a particular sport, High-Intensity Interval Training or HIIT, which combines running, jumping, and rest. I almost exercise every afternoon.
 
-I have read many articles on the Internet that people with a sedentary lifestyle would be at higher risk of diabetes, obesity, and other diseases. This is harmful to me as a software engineer who has to sit in front of the computer for over 6 hours every day. Nevertheless, studies also indicated that if such people exercise for half an hour each day, the risk can be significantly reduced. To counteract the negative effects of a sedentary lifestyle, I downloaded a suite of HIIT videos called T25 from the Internet. After that, I practiced according to the coach's instructions. This video has three advantages: first, it's very short and only lasted 25 minutes for each. Second, I don't need to exercise every day, 5 times per week is enough. Finally, the training effect is amazing. I can see my abs in front of a mirror after exercising for three months.
+I have read many articles on the Internet that people with a sedentary lifestyle would be at higher risk of diabetes, obesity, and other diseases. This is harmful to me as a software engineer who has to sit in front of the computer for over 6 hours every day. Nevertheless, studies also indicated that if such people exercise for half an hour each day, the risk can be significantly reduced. To counteract the negative effects of a sedentary lifestyle, I downloaded a suite of HIIT videos called T25 from the Internet. After that, I practiced according to the coach's instructions. This video has three advantages: first, it's very short and only lasts 25 minutes for each. Second, I don't need to exercise every day, 5 times per week is enough. Finally, the training effect is amazing. I can see my abs in front of a mirror after exercising for three months.
 
 With the increased work pressure in modern society, more people are suffering from subhealthy conditions. How to keep fit and healthy is a challenge for everybody today. Thanks to this video, my physical body has improved a lot. I feel more energetic and healthier than before. I believe I will continue to exercise with this video until it becomes one of my habits.
 
 
+
+15th day:
+
+Describe an invention that has changed the world in a positive way. What it is. What benefits it has brought. How it influences people of different ages. How it change people's lives.
 
 
 
