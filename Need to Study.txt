@@ -97,5 +97,7 @@ result in = give rise to = cause
 academy = college = university = institution
 a number of workers = a population of workers
 dietary habit
+put a priority on sth/doing sth
+
 
 
