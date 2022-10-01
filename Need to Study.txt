@@ -31,7 +31,7 @@ travel alone = take on a solo trip
 There is no truth in the statement that ... = The claim that ... is untrue.
 look out for = take care of
 not as good as sth = be inferior to sth
-consider = take into account
+consider = take into account = take into consideration  ---> take all factors into consideration
 be willing to = be inclined to
 not catch up = fall behind
 friends with common interests = like-minded firends
@@ -98,6 +98,7 @@ academy = college = university = institution
 a number of workers = a population of workers
 dietary habit
 put a priority on sth/doing sth
+immediate concern
 
 
 
