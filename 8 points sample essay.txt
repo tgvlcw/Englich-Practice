@@ -20,7 +20,7 @@ Older adults might anticipate living longer after retirement than ever before as
 While an extra ten years or more can be a lovely addition to our life, there will surely be challenges for each individual. One of these is the beginning of crippling illnesses like Alzheimer's and diabetes.
 
 
-
+------------------------------------------------------
 7 band
 
 One important stage in a child's growth is certainly the development of conscience, which is linked to the ability to tell right from wrong. This skill comes with time and good parenting, and my firm conviction is that punishment does not have much of a role to play in this. Therefore, I have to disagree almost entirely with the given statement. 
@@ -31,7 +31,7 @@ To help a child learn the differences between right and wrong, teachers and pare
 
 Rather, teachers and parents can use a variety of methods to discipline their young charges, such as detention, withdrawal of privileges, and time-out. Making the punishment fit the crime is a useful notion, which would see children being made to pick up rubbish they have dropped, clean up graffiti they have drawn, or apologize to someone they have hurt. In these ways, responsibility is developed in the child, which leads to much better future behavior than punishment.
 
-
+------------------------------------------------------
 8 band
 
 It is said that countries are becoming similar to each other because of the global spread of the same products, which are now available for purchase almost anywhere. I strongly believe that this modern development is largely detrimental to culture and traditions worldwide.
@@ -43,3 +43,19 @@ Let us not forget that traditional products, whether these be medicines, cosmeti
 Finally, tourism numbers may also be affected, as travelers become disillusioned with finding every place just the same as the one they visited previously. To see the same products in shops the world over is boring, and does not impel visitors to open their wallets in the same way that trinkets or souvenirs unique to the particular area do.
 
 Some may argue that all people are entitled to have access to the same products, but I say that local objects suit local conditions best, and that faceless uniformity worldwide is an unwelcome and dreary prospect. 
+
+
+------------------------------------------------------
+Some people think that robots are very important to human’s future development, while others think that they are dangerous and have negative effects on society. 
+Discuss both views and give your own opinion.
+
+Sample:
+
+Artificial intelligence is witnessing game-changing development. While some argue that it may pose a threat to human beings and stall social progress, I entertain the view that it will make a huge difference to our future development.
+
+Of all the potential losses, safety issues are the immediate concern. To illustrate, as the working environment is extremely complex when robots are in use, designers may be unable to take all factors into consideration or precisely predict every possible accident. As a result, machines driven by the encoded programs are less likely to react accurately when emergencies pop up, thus incurring heavy casualties. For instance, there have been several reports about the malfunction of the AI technology installed in the transport or manufacturing industry. However, with repeated tests and regular overhauls, those risks can be reduced. The automation technology is believed to eventually reach a high level of accuracy, precision, and sophistication.
+
+On the other hand, machine learning technology matters a great deal to the future development of mankind. To commence, such technology can uproot the problem brought about by the aging population. Owing to the longevity of pensioners and lower birth rates, an increasing number of countries, especially developed ones, are plagued by an inadequate labor force, and such insufficiency is projected to be intensifying in the future. In this case, robots can act as eligible workers and well perform sundry tasks in the workplace even with fewer faults. Besides, people will lead a more convenient life, with intelligent machines to offer 24-hour services, which will reduce and costs of employing more staff to work in turn and meanwhile motivate people to engage themselves in more advanced fields.
+
+In a nutshell, artificial intelligence, negative social impacts though it may bring, will play an indispensable role in future development.
+

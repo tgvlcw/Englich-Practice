@@ -16,7 +16,7 @@ IDEAS > CAUSE / EFFECT
 IDEAS > EVALUATE
 
 
-1st essay
+1st essay --------------------------------------------------------------------------------
 
 It is important for children to learn the difference between right and wrong at an early age. Punishment is necessary to help them learn this distinction. 
 
@@ -52,7 +52,7 @@ CC 2: Lacks some synonyms to substitute main keywords or other repetitive words.
  
 
 
-2nd essay
+2nd essay --------------------------------------------------------------------------------
 
 Some people think that all university students should study whatever they like. Others believe that they should only be allowed to study subjects that will be useful in the future, such as those related to science and technology. 
 
@@ -86,7 +86,7 @@ On the other hand, some argue that students are required to choose science-relat
 In conclusion, it seems to me that permitting people to learn courses they are keen on at college is better than forcing them to take certain specific subjects. It is obvious that learning interest is the best teacher for students, and also this is the basis for forming new knowledge and skills.
 
 
-3th essay
+3th essay --------------------------------------------------------------------------------
 
 Countries are becoming more and more similar because people are able to buy the same products anywhere in the world. 
 
@@ -113,7 +113,7 @@ Lastly, the living standard gap would be eliminated. It is for this reason that 
 In conclusion, I reiterate that the phenomenon is a good occurrence. It would better the economy in the world, bring creativity and innovation in solving international dilemmas, and eradicates the living standard gap.
 
 
-4th essay
+4th essay --------------------------------------------------------------------------------
 
 Many museums charge for admission while others are free.
 
@@ -137,6 +137,40 @@ On the one hand, most locals are discouraged to visit any science, history, or a
 Conversely, The ticket fees are what will separate the genuine enthusiasts from uninterested and bored visitors. Those who are genuinely interested in art, science and history archive facilities are the ones who will pay for the visit no matter what it costs. Free-of-charge results in a number of issues that cannot be easily resolved, such as overcrowding during festivals, low quality of service, and deliberate vandalism. 
 
 In conclusion, it seems that, while free of charge access to museums can cause problems, the advantages of admitting to the exhibits and special venues for no charge are superior to its disadvantages. 
+
+
+5th essay --------------------------------------------------------------------------------
+
+Nowadays some people have anti-social behavior and lack respect to others.
+What are the reasons? What are the solutions?
+
+With the rapid development of human society, why certain individuals displayed detrimental behaviors has aroused widespread concerns in public. There appear to be two major reasons for this, and several appropriate methods of resolution, as we will discuss here. 
+
+Perhaps the main cause is the electronic equipment addiction that enables people to isolate themselves from the world. This means that if they pay more attention to their mobile phones or video games, they are unable to distinguish between the real world and the virtual world. According to the latest study, people indulging in the digital world are more inclined to express violent tendencies or aggressive behaviors in their lives. A further cause could be attributed to unjust and inequitable treatment in society. The reason people exhibit disrespectful or hostile practices is in order to deliver their dissatisfaction since they are not treated with justice. For example, the protest marches taking place in France this year are against the policy that the authority intends to postpone retirement so as to mitigate the aging pressure.
+
+Regarding potential solutions, probably the main remedy would be to enhance the awareness of the general public. For example, social media should be required to undertake more social responsibilities that frequently remind people of the negative influences arising from prolonged using electronic appliances. This could prevent people from being excessively stuck in cyberspace. Other solutions may be the government should strive to create a just environment for citizens, take more account into the interests of low-income people, and develop the economy to provide more employment opportunities for young adults. 
+
+In conclusion, it seems that addiction to the virtual world and unfair living circumstances are the key factors behind disrespectful attitudes and anti-social behavior. Possible solutions would involve keeping in touch with the external world regularly and enlightened measures to ameliorate these kinds of adverse situations.
+
+
+AI Modified:
+
+With the rapid development of human society, why some individuals displayed detrimental behaviors has aroused widespread concerns in public. There appear to be two main reasons for this, and several appropriate methods of resolution, as we will discuss here. 
+
+Perhaps the main cause is the electronic equipment addiction that enables people to isolate themselves from the world. This means that if they pay more attention to their mobile phones or video games, they will not be able to distinguish between the real world and the virtual world. According to the latest study, people indulging in the digital world are more inclined to express violent tendencies or aggressive behaviors in their lives. A further cause could be attributed to unjust and inequitable treatment in society. The reason people exhibit disrespectful or hostile practices is to demonstrate their dissatisfaction since they are not treated with justice. For example, the protest marches taking place in France this year are against the policy that the government intends to postpone retirement so as to mitigate the aging pressure.
+
+Regarding potential solutions, probably the main remedy is to raise public health awareness. For example, social media should be required to undertake more social responsibilities that frequently remind people of the negative influences arising from prolonged using electronic appliances. This could prevent people from being excessively immersed in cyberspace. Other solutions may be the government should strive to create a just environment for citizens, take more account of the interests of low-income people, and develop the economy to provide more job opportunities for young adults. 
+
+In conclusion, it seems that addiction to the virtual world and unfair living circumstances are the key factors behind disrespectful attitudes and anti-social behavior. Possible solutions would involve regularly keeping in touch with the external world and enlightened measures to ameliorate these adverse situations.
+
+
+
+
+
+
+
+
+
 
 
 
