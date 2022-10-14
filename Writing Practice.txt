@@ -660,4 +660,38 @@ Traveling and gaining a part-time job are not likely to offer any benefits to yo
 Having one year of work and touring prior to stepping into college can weaken students' learning enthusiasm and ability to study.
 
 
+-------------------------------------------------------------------------------------------------------------------------------------------------
+1, More and more plastic is polluting cities, countryside and oceans. What are the problems caused by plastic waste? What measures should be taken to solve it?
 
+Plastic pollution is becoming one of the serious environmental problems that contaminates the earth's ecosystem and endangers human's survival recently. There appear to be two main causes of this, and several appropriate solutions, as we will discuss here. 
+
+Perhaps the main cause is the exponential increase in the number of global population over the past decades.
+A further cause could be the living standard of citizens worldwide has improved largely with the rapid development of technology.
+
+Regarding potential solutions, probably the main remedy is to subsidize more competent high-tech corporations so as to invent more degradable plastic materials as soon as possible.
+Other solutions may be promoting the consequences of plastic pollution to inspire more people aware of this issue, recommending other better alternatives to reduce the usage frequency of plastic products, and raising the consciousness of conserving the environment in general public.
+
+AI modified:
+Plastic pollution is now regarded as one of the most serious environmental problems that threatens the earth's ecosystem and human survival. There appear to be two main causes of this, and several appropriate solutions, as we will discuss here. 
+
+Perhaps the primary cause is the exponential increase in the number of the global population over the past decades.
+A further cause could be, with the rapid development of technology, the living standard of citizens worldwide has improved largely.
+
+Regarding potential solutions, probably the main remedy is to subsidize more competent high-tech corporations so as to invent new plastic materials with shorter degradable times as soon as possible.
+Other solutions might include promoting the negative impacts of plastic pollution, recommending other better alternatives for plastics, and raising the consciousness of conserving the environment in the general public.
+
+
+
+2, Damage to the environment is an inevitable consequence of the improvement in the standard of living. 
+To what extent do you agree or disagree.
+
+The desire that people are eager to gain more comfortable living conditions continues to confict with the expectation of keeping the natural ecosystem intact. To a large extent, I agree that the continuous development of human society could cause a series of environmental issues, but their negative effects can be minimized by certain ways.
+
+To begin with, no country can make a direct transition from a non-industrialized country to an industrialized one throughout human history. 
+Furthermore, polluting environment in certain developing countries is the most rapid and effective methods to catch up developed ones.
+
+AI modified:
+In part, the desire of people to gain more comfortable living conditions conflicts with the expectation of keeping the natural ecosystem intact. To a large extent, I agree that the continuous development of human society could cause a series of environmental issues, but its negative effects can be minimized in certain ways.
+
+To begin with, throughout human history, no country was capable of making the transition from a non-industrialized country to an industrialized one without spoiling the environment. 
+Furthermore, sacrificing the environment is the most rapid and effective method for developing countries to catch up with developed ones.
