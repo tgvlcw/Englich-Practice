@@ -59,3 +59,28 @@ First, in 2000, the percentage of British students able to talk Spanish made up 
 Secondly, the situation in 2010 is a little distinguished compared to 2000. Spanish was still the favorite language among all students, with 35%. And speaking German, French, and no other language accounted for 10% of total students, while students speaking another language and two others accounted for 20% and 15%, respectively. 
 
 Comparing these two graphs, it is clear that Spanish in this British college was more popular in 2010 than in 2000, and the proportion of students able to speak another language and two other languages increased from 2000, whereas the proportion of speaking French and German decreased during this period. 
+
+
+7th essay -----------------------------------------------------------------
+
+The chart shows average carbon dioxide emissions on every person in the UK, Sweden, Italy, and Portugal from 1967 to 2007.
+
+The amount of CO2 emissions per person in Italy and Portugal follows similar trend. In 1967, everyone emitting CO2 in both countries was about 1.2 and 4.2 metric tonnes, and the amount increased steadily to 5.7 and 7.8 metric tonnes by 1997 and fluctruated at this level until 2007.
+
+In contrast, the amount of CO2 emissions in the UK and Sweden has a opposite trend. The emissions per person in these two nations starts with 8.6 and 10.8 metric tonnes in 1967. Interestingly, the amount in Sweden decreased slightly to 8.8 metric tonnes in 2007, whereas in Sweden it firstly rose to 10.5 metric tonnes by 1977 and then reduced dramatically to 5.7 metric tonnes in 2007.
+
+Comparing this graph, it is clear that the amount of CO2 emissions between 1967 and 2007 in the UK was the most among these four countries, and the ranking of Sweden fell from the second one to the last one identical with Portugal in 2007. 
+
+
+AI Modified:
+The chart shows the average carbon dioxide emissions per person in the UK, Sweden, Italy, and Portugal from 1967 to 2007.
+
+To begin with, the amount of CO2 emissions per person in Italy and Portugal displays a similar trend. In 1967, everyone emitting CO2 in both countries was about 1.2 and 4.2 metric tonnes, and the amount increased steadily to 5.7 and 7.8 metric tonnes by 1997 and fluctuated at this level until 2007.
+
+In contrast, the amount of CO2 emissions in the UK and Sweden has an opposite trend. The emissions per person in these two nations in 1967 were 8.6 and 10.8 metric tonnes respectively. Interestingly, the amount in Sweden decreased slightly to 8.8 metric tonnes in 2007, whereas in Sweden it first rose to 10.5 metric tonnes by 1977 and then reduced dramatically to 5.7 metric tonnes in 2007.
+
+Comparing this graph, it is clear that the amount of CO2 emissions between 1967 and 2007 in the UK was the most among these four countries, while Sweden's ranking fell from the second in 1967 to the last in 2007.
+
+
+
+
