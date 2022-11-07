@@ -77,9 +77,10 @@ The chart shows the average carbon dioxide emissions per person in the UK, Swede
 
 To begin with, the amount of CO2 emissions per person in Italy and Portugal displays a similar trend. In 1967, everyone emitting CO2 in both countries was about 1.2 and 4.2 metric tonnes, and the amount increased steadily to 5.7 and 7.8 metric tonnes by 1997 and fluctuated at this level until 2007.
 
-In contrast, the amount of CO2 emissions in the UK and Sweden has an opposite trend. The emissions per person in these two nations in 1967 were 8.6 and 10.8 metric tonnes respectively. Interestingly, the amount in Sweden decreased slightly to 8.8 metric tonnes in 2007, whereas in Sweden it first rose to 10.5 metric tonnes by 1977 and then reduced dramatically to 5.7 metric tonnes in 2007.
+In contrast, the amount of CO2 emissions in the UK and Sweden has an opposite trend. The emissions per person in these two nations in 1967 were 8.6 and 10.8 metric tonnes respectively. Interestingly, the amount in the UK decreased slightly to 8.8 metric tonnes in 2007, whereas in Sweden it first rose to 10.5 metric tonnes by 1977 and then reduced dramatically to 5.7 metric tonnes in 2007.
 
-Comparing this graph, it is clear that the amount of CO2 emissions between 1967 and 2007 in the UK was the most among these four countries, while Sweden's ranking fell from the second in 1967 to the last in 2007.
+Comparing this graph, it is clear that the amount of CO2 emissions between 1967 and 2007 in the UK was the most among these four countries, while Sweden's ranking dropped from second in 1967 to last in 2007, on par with Portugal.
+
 
 
 
