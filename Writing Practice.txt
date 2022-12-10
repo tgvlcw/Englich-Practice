@@ -749,9 +749,23 @@ In conclusion, it seems to me that art disciplines should not be considered requ
 Computers are often argued to be the most important invention of the last hundred years.
 To what extent do you agree or disagree with this statement?
 
+With the continuous development of contemporary society, computers have become one of basic necessities in people lives throughout the world. To a large extent, I agree that computing machines are the most significant innovation over the past hundred years.
+
+To begin with, computers transform people's work patterns whether in personal life or in commercial fields. Furthermore, computing machines speed up the advancement in science, technology, space traveling. 
+
+On the other side, the likelihood that human beings' abilities to calculate and think independently would be stymied by the emergence of this equipment. However, driving human civilization to the further level primarily rely on this kind of high-speed and sophisticated electronic computing system. 
+
+In conclusion, it seems to me that computers played the most essential role over the last century in affecting humans' behavior and the large improvement of work efficiency.
 
 
+AI modified:
+With the continuous development of contemporary society, computers have become one of the necessities in citizens' lives throughout the world. To a large extent, I agree that computing machines are the most significant innovation over the past hundred years.
 
+To begin with, computers transform enormously people's work patterns whether in personal life or commercial fields. Furthermore, computing machines speed up the advancement in science, technology, and interstellar travel. 
+
+On the other side, the likelihood that human beings' abilities to calculate and independent thinking would be stymied somehow by the emergence of this equipment. However, driving human civilization to a further level primarily relies on this kind of high-speed and sophisticated electronic computing system. 
+
+In conclusion, it seems to me that computers acted the most essential role over the last century in affecting human behavior and the improvement of work efficiency. Nevertheless, we should not be dismissive of the adverse implication of this sort of electronic gadgets on adolescents' mental and physical health.
 
 
 
